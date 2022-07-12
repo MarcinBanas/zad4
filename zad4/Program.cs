@@ -25,7 +25,7 @@ var Kontekst = new MyDbContext();
 //    Kontekst.Autor.Add(autor);
 //}
 
-Kontekst.SaveChanges();
+//Kontekst.SaveChanges();
 
 int wybor = 0;
 Console.Write("1 - wyszukaj autora po nazwisku ");
